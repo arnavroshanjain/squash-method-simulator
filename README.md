@@ -8,8 +8,8 @@ Simulates squash matches to compare different scoring systems, specifically Poin
 
 ## How to Use
 To run the simulation:
-1. **Clone the repository**:
-   ```bash
+1. **Clone the repository and follow the commands as follows in the command line**:
+     
 2.   git clone https://github.com/yourusername/squash-match-simulator.git
 
 3.   cd squash-match-simulator
