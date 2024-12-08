@@ -16,7 +16,7 @@ To run the simulation:
 
 4.   pip install notebook
      (if jupyter notebook is not installed)
-5.   jupyter notebook c22115526.ipynb
+5.   jupyter notebook simulator.ipynb
 
    
 
